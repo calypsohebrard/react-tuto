@@ -11,6 +11,6 @@ Ce dépôt est le suivi du tutoriel du site officiel de React afin d'apprendre l
 -Construction d'un petit jeu de Tic Tac Toe en React.
 
 ## Installation
--Installer Node.js
--Taper dans votre terminal npm install
--Taper dans votre terminal npm start
+- **Installer Node.js**
+- **Taper dans votre terminal npm install**
+- **Taper dans votre terminal npm start**
